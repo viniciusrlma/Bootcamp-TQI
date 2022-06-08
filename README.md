@@ -1,4 +1,4 @@
-# Repositório Desafio - Bootcamp TQI :man_student:
+# Repositório Bootcamp TQI :man_student:
 
 Olá, seja bem-vindo ao repositório criado para atender ao primeiro desafio de projeto do **Bootcamp TQI**.
 
